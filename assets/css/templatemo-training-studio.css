@@ -674,9 +674,13 @@ features
   margin-bottom: 60px;
 }
 
-.feature-item .left-icon img {
+.feature-item .left-icon i {
   float: left;
   margin-right: 30px;
+  background-color: #ed563b;
+  color: #fff;
+  padding:10px;
+  border-radius:5px;
 }
 
 .feature-item .right-content {
